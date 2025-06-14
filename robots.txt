@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Allow: /structured-json-data/
+
+User-agent: Bingbot
+Allow: /structured-json-data/
+
+User-agent: YandexBot
+Allow: /structured-json-data/
