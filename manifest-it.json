@@ -1,0 +1,30 @@
+{
+  "name": "Trasferimenti Tunisia",
+  "short_name": "TrasferimentiTN",
+  "description": "Servizio premium di trasferimenti aeroportuali e noleggio con conducente in tutta la Tunisia — comfort, puntualità e prenotazioni 24/7.",
+  "start_url": "/?utm_source=pwa-it",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f1f1f",
+  "orientation": "portrait",
+  "lang": "it",
+  "scope": "/",
+  "id": "/manifest-it.json",
+  "icons": [
+    {
+      "src": "https://trasferimenti-in-tunisia.blogspot.com/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

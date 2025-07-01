@@ -1,0 +1,30 @@
+{
+  "name": "Transferts Tunisie",
+  "short_name": "TransfertsTN",
+  "description": "Service premium de transferts aéroportuaires et location de véhicules privés avec chauffeur sur toute la Tunisie – confort, ponctualité, réservation 24h/7.",
+  "start_url": "/?utm_source=pwa-fr",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f1f1f",
+  "orientation": "portrait",
+  "lang": "fr",
+  "scope": "/",
+  "id": "/manifest-fr.json",
+  "icons": [
+    {
+      "src": "https://transferts-tunisie.blogspot.com/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Tunisia Transfers",
+  "short_name": "TransfersTN",
+  "description": "Premium airport transfers and private chauffeur services across Tunisia — comfort, reliability, and 24/7 booking.",
+  "start_url": "/?utm_source=pwa-en",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f1f1f",
+  "orientation": "portrait",
+  "lang": "en",
+  "scope": "/",
+  "id": "/manifest-en.json",
+  "icons": [
+    {
+      "src": "https://tunisia-transfers.blogspot.com/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

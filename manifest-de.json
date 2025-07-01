@@ -1,0 +1,30 @@
+{
+  "name": "Transferts Tunesien",
+  "short_name": "TransfertsTN",
+  "description": "Premium-Transferservice für Flughäfen und private Fahrten mit Chauffeur in ganz Tunesien – Komfort, Zuverlässigkeit und 24/7-Buchung.",
+  "start_url": "/?utm_source=pwa-de",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f1f1f",
+  "orientation": "portrait",
+  "lang": "de",
+  "scope": "/",
+  "id": "/manifest-de.json",
+  "icons": [
+    {
+      "src": "https://tunesien-transfers.blogspot.com/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
