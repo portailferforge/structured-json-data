@@ -1,0 +1,30 @@
+{
+  "name": "Traslados Túnez",
+  "short_name": "TrasladosTN",
+  "description": "Servicio premium de traslados aeroportuarios y alquiler de vehículos privados con chofer en toda Túnez — comodidad, puntualidad y reservas 24h/7.",
+  "start_url": "/?utm_source=pwa",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f1f1f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://transferts-tunisie.blogspot.com/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/portailferforge/portail.html/main/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "es",
+  "scope": "/",
+  "id": "/manifest.json"
+}
